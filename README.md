@@ -6,8 +6,8 @@ Future home of the open hardware specifications and software source code accompa
 - Hardware
 
 - [x] **Firmware** : uC firmware of the joints & splitters (online)
-- [ ] **Mechanics** : STL files for 3D printing (to be added)
-- [ ] **Electronics** : PCB plans (to be added)
+- [x] **Mechanics** : STL files for 3D printing (online)
+- [x] **Electronics** : PCB plans (online)
 
 - Software
 
