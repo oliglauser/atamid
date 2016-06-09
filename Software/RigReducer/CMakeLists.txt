@@ -15,12 +15,12 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -msse4.2")
 
 #manually set at the moment :( sorry for that
 SET(NANOGUI_INCLUDE_DIRS
-        /Users/oliverglauser/git/libigl/external/nanogui/include
-        /Users/oliverglauser/git/libigl/external/nanogui/ext/nanovg/src
-        /Users/oliverglauser/git/libigl/external/nanogui/ext/glfw/include
+        ../../git/libigl/external/nanogui/include
+        ../../git/libigl/external/nanogui/ext/nanovg/src
+        ../../git/libigl/external/nanogui/ext/glfw/include
         )
 
-FIND_LIBRARY(NANOGUI_LIBRARY NAMES nanogui PATHS /Users/oliverglauser/git/libigl/external/nanogui/sbuild)
+FIND_LIBRARY(NANOGUI_LIBRARY NAMES nanogui PATHS ../../git/libigl/external/nanogui/sbuild)
 
 SET(NANOGUI_FOUND "YES")
 
