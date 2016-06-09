@@ -3,17 +3,14 @@ Future home of the open hardware specifications and software source code accompa
 
 ! Still incomplete
 
- - Hardware   - Firmware        // uC firmware of the joints & splitters (online)
-|            |
-|             - Mechanics       // STL files for 3D printing (to be added)
-|            |
-|             - Electronics     // PCB plans (to be added)
-|
-|           
- - Software   - RigReducer      // Device generation program (online)
-|            |
-|             - MayaBridge      // Integration of the device into Maya (to be added)
-|            |
-|             - BlenderPlugin   // Integration of the device into Blender (in development)
-|
-- Manual (to be written)              
+- Hardware
+- [x] **Firmware** : uC firmware of the joints & splitters (online)
+- [ ] **Mechanics** : STL files for 3D printing (to be added)
+- [ ] **Electronics** : PCB plans (to be added)
+
+- Software
+- [x] **RigReducer** : Device generation program (online)
+- [ ] **MayaBridge** : Integration of the device into Maya (to be added)
+- [ ] **BlenderPlugin** : Integration of the device into Blender (in development)
+
+- Manual (to be written)      
