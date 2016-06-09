@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.8.4 -mcpu=cortex-m0 -mthumb -g -nostartfiles -Map=f051-cube-first.map -O0 --gc-sections --specs=nano.specs -u _printf_float -LC:\CooCox\CoIDE\configuration\ProgramData\f051-cube-first -TC:\CooCox\CoIDE\configuration\ProgramData\f051-cube-first/arm-gcc-link.ld -g">
+      <target file="f051-cube-first.elf" lastModified="155340286f3">
+         <source file="..\obj\stm32f0xx_hal_pwr.o" lastModified="1514537f817"/>
+         <source file="..\obj\stm32f0xx_hal_wwdg.o" lastModified="1514537f8a3"/>
+         <source file="..\obj\utility.o" lastModified="151bb3c5802"/>
+         <source file="..\obj\stm32f0xx_hal_rcc.o" lastModified="1514537fb71"/>
+         <source file="..\obj\stm32f0xx_hal.o" lastModified="1514537fbce"/>
+         <source file="..\obj\74HC4051D.o" lastModified="1514537fc2c"/>
+         <source file="..\obj\stm32f0xx_hal_uart.o" lastModified="1514537fcd7"/>
+         <source file="..\obj\bus.o" lastModified="151afd77f92"/>
+         <source file="..\obj\main.o" lastModified="155340284c2"/>
+         <source file="..\obj\startup_stm32f0xx.o" lastModified="15145380179"/>
+         <source file="..\obj\stm32f0xx_hal_rcc_ex.o" lastModified="15145380282"/>
+         <source file="..\obj\stm32f0xx_hal_flash_ex.o" lastModified="15145380437"/>
+         <source file="..\obj\stm32f0xx_hal_dma.o" lastModified="151453804b4"/>
+         <source file="..\obj\stm32f0xx_hal_cortex.o" lastModified="15145380531"/>
+         <source file="..\obj\stm32f0xx_hal_spi.o" lastModified="1514538063a"/>
+         <source file="..\obj\syscalls.o" lastModified="15145380697"/>
+         <source file="..\obj\stm32f0xx_hal_msp.o" lastModified="151453806e5"/>
+         <source file="..\obj\stm32f0xx_hal_flash.o" lastModified="15145380762"/>
+         <source file="..\obj\system_stm32f0xx.o" lastModified="151453807cf"/>
+         <source file="..\obj\stm32f0xx_it.o" lastModified="1514538081d"/>
+         <source file="..\obj\stm32f0xx_hal_pwr_ex.o" lastModified="1514538087b"/>
+         <source file="..\obj\stm32f0xx_hal_tim_ex.o" lastModified="15145380927"/>
+         <source file="..\obj\stm32f0xx_hal_uart_ex.o" lastModified="15145380994"/>
+         <source file="..\obj\stm32f0xx_hal_tim.o" lastModified="15145380aeb"/>
+         <source file="..\obj\uart_queue.o" lastModified="15145a05b08"/>
+         <source file="..\obj\stm32f0xx_hal_gpio.o" lastModified="15145380dd8"/>
+         <source file="..\obj\mlx90363.o" lastModified="1523774b1b2"/>
+      </target>
+   </processor>
+</history>
